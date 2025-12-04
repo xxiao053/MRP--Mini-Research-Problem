@@ -1,0 +1,11 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Env files (Never upload API keys!!)
+.env
+*.env
+
+# IDE/editor settings
+.vscode/
+.idea/

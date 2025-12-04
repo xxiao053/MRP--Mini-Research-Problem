@@ -1,0 +1,14 @@
+model_base,prompt_base,filename,foldername,object,flag,gpt_raw_answer_base,gpt_norm_base,model_mis,prompt_mis,gpt_raw_answer_mis,gpt_norm_mis
+gpt-5.1,baseline,2982902747_6f42eea9cf_z.jpg,car,traffic light,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,3853738920_ac4ae553f7_z.jpg,car,sign,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,5216397952_2e08318894_z.jpg,car,road,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,5216397952_2e08318894_z.jpg,car,tree,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,8735069863_c5f3734e61_z.jpg,car,truck,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,5373979588_e5798a765c_z.jpg,cat,furniture,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,8140835563_609e759460_z.jpg,chair,sofa,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,1012810480_327267237a_z.jpg,dog,sofa,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,30784590_18b637124e_z.jpg,dog,tree,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,4092005670_43fc0f5269_z.jpg,dog,fence,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,4727992106_280098dd98_z.jpg,dog,leash,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,3527687226_23a1e2fd74_z.jpg,person,shoe,0,no,no,gpt-5.1,misleading1,yes,yes
+gpt-5.1,baseline,4104251557_561fb940c5_z.jpg,person,bag,0,no,no,gpt-5.1,misleading1,yes,yes

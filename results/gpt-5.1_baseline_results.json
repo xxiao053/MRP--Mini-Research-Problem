@@ -1,0 +1,7346 @@
+[
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10046963296_dbfe9519d6_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10046963296_dbfe9519d6_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10046963296_dbfe9519d6_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10046963296_dbfe9519d6_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10046963296_dbfe9519d6_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "120793751_991313cafd_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "120793751_991313cafd_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "120793751_991313cafd_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "120793751_991313cafd_z.jpg",
+        "foldername": "car",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "120793751_991313cafd_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "120793751_991313cafd_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "120793751_991313cafd_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2746804389_97763e30e9_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "288107019_81bce843b0_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2982902747_6f42eea9cf_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2982902747_6f42eea9cf_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2982902747_6f42eea9cf_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2982902747_6f42eea9cf_z.jpg",
+        "foldername": "car",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2982902747_6f42eea9cf_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2982902747_6f42eea9cf_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3284556259_5746dde156_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3379013900_8620b3e7b4_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3696128984_1f62b3c116_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3696128984_1f62b3c116_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3696128984_1f62b3c116_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3696128984_1f62b3c116_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3696128984_1f62b3c116_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3853738920_ac4ae553f7_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3853738920_ac4ae553f7_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3853738920_ac4ae553f7_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3853738920_ac4ae553f7_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3853738920_ac4ae553f7_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3853738920_ac4ae553f7_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4971782749_d5ab1925eb_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4971782749_d5ab1925eb_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4971782749_d5ab1925eb_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4971782749_d5ab1925eb_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4971782749_d5ab1925eb_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4971782749_d5ab1925eb_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4971782749_d5ab1925eb_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5216397952_2e08318894_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "523730790_84a1672f64_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "523730790_84a1672f64_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "523730790_84a1672f64_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "523730790_84a1672f64_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "523730790_84a1672f64_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "523730790_84a1672f64_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5443064084_48ccc5cf59_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6371629015_2384bcff90_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6794078008_a00ef2b9c6_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6794078008_a00ef2b9c6_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6794078008_a00ef2b9c6_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6794078008_a00ef2b9c6_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6794078008_a00ef2b9c6_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7685725760_9343f56ed5_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7685725760_9343f56ed5_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7685725760_9343f56ed5_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7685725760_9343f56ed5_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7685725760_9343f56ed5_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7685725760_9343f56ed5_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7685725760_9343f56ed5_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8020423904_9e2455298d_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8062992543_e5e82522ca_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8062992543_e5e82522ca_z.jpg",
+        "foldername": "car",
+        "object": "building",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8062992543_e5e82522ca_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8062992543_e5e82522ca_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8062992543_e5e82522ca_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8062992543_e5e82522ca_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8062992543_e5e82522ca_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8633584452_8cb53543cb_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8633584452_8cb53543cb_z.jpg",
+        "foldername": "car",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8735069863_c5f3734e61_z.jpg",
+        "foldername": "car",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8735069863_c5f3734e61_z.jpg",
+        "foldername": "car",
+        "object": "bus",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8735069863_c5f3734e61_z.jpg",
+        "foldername": "car",
+        "object": "motorcycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8735069863_c5f3734e61_z.jpg",
+        "foldername": "car",
+        "object": "road",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8735069863_c5f3734e61_z.jpg",
+        "foldername": "car",
+        "object": "sign",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8735069863_c5f3734e61_z.jpg",
+        "foldername": "car",
+        "object": "traffic light",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8735069863_c5f3734e61_z.jpg",
+        "foldername": "car",
+        "object": "truck",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1048701609_96957c2f0c_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "111672957_a90b5132fc_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2452243340_09a5c2d554_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256248429_ebcfe37830_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "256670286_35b9aa5593_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2782294653_58f8beb0e5_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "297290142_2ee1962ac7_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2979408443_0b9cd6b26f_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "339263720_d41fd69b6b_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3433892686_b84011a092_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "346539027_68d9056448_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4559168930_674142ca38_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "459282725_4a2d394024_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4604512475_d468e67378_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "487756768_1b13c03d82_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5373979588_e5798a765c_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "58754785_b24993c8bd_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6247094378_8e075d06f6_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "64319272_957ccdf207_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "bird",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "blanket",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "bowl",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "furniture",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "mouse",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "toy",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8408217835_8753f4ce1a_z.jpg",
+        "foldername": "cat",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10200388114_b56d5bfbc3_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1327113850_d0fea4d416_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "171546751_4484567625_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "171546751_4484567625_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "171546751_4484567625_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "171546751_4484567625_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "171546751_4484567625_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "171546751_4484567625_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "185049565_033501c192_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2609945215_4531801330_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3017386019_32345947cc_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3022047945_a6f93f535f_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3022047945_a6f93f535f_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3022047945_a6f93f535f_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3022047945_a6f93f535f_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3022047945_a6f93f535f_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3022047945_a6f93f535f_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3022047945_a6f93f535f_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3104657901_24a3427eef_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3104657901_24a3427eef_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3104657901_24a3427eef_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3104657901_24a3427eef_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3104657901_24a3427eef_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3165229121_8c10458feb_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4119350847_0407b383a9_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4119350847_0407b383a9_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4119350847_0407b383a9_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4119350847_0407b383a9_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4119350847_0407b383a9_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4119350847_0407b383a9_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4633345591_3062054fb0_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4633345591_3062054fb0_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4633345591_3062054fb0_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4794902745_964b0dc4da_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4794902745_964b0dc4da_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4794902745_964b0dc4da_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4794902745_964b0dc4da_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4794902745_964b0dc4da_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4794902745_964b0dc4da_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4794902745_964b0dc4da_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4978226870_6af69869f8_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4978226870_6af69869f8_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4978226870_6af69869f8_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4978226870_6af69869f8_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4978226870_6af69869f8_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4978226870_6af69869f8_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4992861291_0373e88237_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4992861291_0373e88237_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4992861291_0373e88237_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4992861291_0373e88237_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4992861291_0373e88237_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5156498714_c2bc95df9a_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5834817570_765f4dd951_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6686907917_f9a48ae947_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7075644623_d7b08d392a_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7075644623_d7b08d392a_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7075644623_d7b08d392a_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7075644623_d7b08d392a_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7075644623_d7b08d392a_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7075644623_d7b08d392a_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7075644623_d7b08d392a_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "lamp",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8140835563_609e759460_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "books",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "carpet",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "cup",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "desk",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "plant",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8255321115_be9bc845b3_z.jpg",
+        "foldername": "chair",
+        "object": "window",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1012810480_327267237a_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "210709098_326333f436_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2947968946_b188a76229_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "30784590_18b637124e_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3279445889_2f253793ef_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3410256465_f6a8a6b689_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3654165086_5f2736a241_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "39706497_ae1eb88663_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4092005670_43fc0f5269_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4385312738_1c191e5ea8_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4415559538_f036f9ff02_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4585382776_f896221680_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4585382776_f896221680_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4585382776_f896221680_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4585382776_f896221680_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4585382776_f896221680_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4585382776_f896221680_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4585382776_f896221680_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4727992106_280098dd98_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5403483634_3f503536a4_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5849678764_3f930be1dc_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5849678764_3f930be1dc_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5849678764_3f930be1dc_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5849678764_3f930be1dc_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5849678764_3f930be1dc_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5849678764_3f930be1dc_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5849678764_3f930be1dc_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6063388134_ff71933213_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6063388134_ff71933213_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6063388134_ff71933213_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6063388134_ff71933213_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6063388134_ff71933213_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6063388134_ff71933213_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6063388134_ff71933213_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7079730957_65f332fc7f_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7994377451_74c3a0e9fc_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "sofa",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "8733983407_5d7dc98a90_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "collar",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "fence",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "grass",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "leash",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "person",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9719235568_1e3a78e49e_z.jpg",
+        "foldername": "dog",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "10265891086_002cc4764c_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "1140779841_2b99d0c6b2_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2539843718_7336ef7285_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2539843718_7336ef7285_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2539843718_7336ef7285_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2539843718_7336ef7285_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2539843718_7336ef7285_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2539843718_7336ef7285_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2539843718_7336ef7285_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "2711568708_89f2308b85_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3169974274_cb7cc61c4a_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3169974274_cb7cc61c4a_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3169974274_cb7cc61c4a_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3169974274_cb7cc61c4a_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3169974274_cb7cc61c4a_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3169974274_cb7cc61c4a_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3169974274_cb7cc61c4a_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3287685183_438f4e2f21_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3527687226_23a1e2fd74_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3527687226_23a1e2fd74_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3527687226_23a1e2fd74_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3527687226_23a1e2fd74_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3527687226_23a1e2fd74_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3527687226_23a1e2fd74_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "3527687226_23a1e2fd74_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4104251557_561fb940c5_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4372437500_b45836beae_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4694116428_402c5819b5_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "4965798874_5d16d00510_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5137064654_0b6eabe668_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5689037505_4ae1b0ce17_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "5866038566_85ab79139a_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6621047055_74acff8c88_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "6813229740_1442c6fb26_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7432640086_69df2feb25_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "7623114080_0e00c2d9d8_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "table",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9359125650_9e3a6b9fdd_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "bag",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "ball",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "bicycle",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "car",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "cat",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "chair",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "dog",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "shoe",
+        "flag": 0,
+        "gpt_raw_answer": "no"
+    },
+    {
+        "model": "gpt-5.1",
+        "prompt": "baseline",
+        "filename": "9428309183_14ca8d7e7a_z.jpg",
+        "foldername": "person",
+        "object": "tree",
+        "flag": 0,
+        "gpt_raw_answer": "yes"
+    }
+]
