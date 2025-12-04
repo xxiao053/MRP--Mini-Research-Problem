@@ -1,4 +1,4 @@
-# Mini Research Project — Multimodal Hallucination
+# Mini Research Project — A Scalable Workflow for Evaluating Object Hallucination in Multimodal LLMs
 
 This project studies **object hallucination** in multimodal LLMs (GPT-4o and GPT-5.1).  
 Models are asked yes/no questions about whether an object exists in an image.
