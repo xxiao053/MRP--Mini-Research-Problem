@@ -6,9 +6,7 @@ RESULTS_DIR = "results"
 MODEL_NAME = "gpt-5.1"
 
 
-########################################
 # Helper: normalize GPT answers
-########################################
 
 def normalize(ans):
     if not isinstance(ans, str):
@@ -21,9 +19,7 @@ def normalize(ans):
     return "unknown"
 
 
-########################################
 # Load results for gpt-5.1 only
-########################################
 
 def load_results(model):
     files = [
@@ -46,9 +42,7 @@ def load_results(model):
     return pd.DataFrame(rows)
 
 
-########################################
 # Find two typical cases
-########################################
 
 def find_cases(df):
 
@@ -70,9 +64,7 @@ def find_cases(df):
         suffixes=("_base", "_miti")
     )
 
-    ##############################
     # CASE A: baseline OK → misleading hallucinated
-    ##############################
 
     caseA = merge_base_mis[
         (merge_base_mis["flag"] == 0) & 
@@ -80,9 +72,7 @@ def find_cases(df):
         (merge_base_mis["gpt_norm_mis"] == "yes")     # misleading hallucinated
     ]
 
-    ##############################
     # CASE B: baseline hallucinated → mitigation fixed
-    ##############################
 
     caseB = merge_base_miti[
         (merge_base_miti["flag"] == 0) & 
@@ -93,9 +83,7 @@ def find_cases(df):
     return caseA, caseB
 
 
-########################################
 # MAIN
-########################################
 
 def main():
 

@@ -7,15 +7,13 @@ import logging
 from openai import OpenAI, RateLimitError
 
 
-############################################
-# 0. CONFIGURATIONS
-############################################
+# CONFIGURATIONS
 
 # Models you want to support 
 # Reference: https://platform.openai.com/docs/models/gpt-5
 # Pricing: https://platform.openai.com/docs/pricing 
 AVAILABLE_MODELS = [
-    "gpt-5.1",     # latest flagship (2025)
+    "gpt-5.1",     # latest flagship
     "gpt-5",
     "gpt-4.1",
     "gpt-4o",      # strong multimodal model
@@ -34,9 +32,7 @@ OUTPUT_DIR = "results"
 LOG_FILE = "run_all_prompts.log"
 
 
-############################################
-# 1. LOGGING SETUP
-############################################
+# LOGGING SETUP
 
 logging.basicConfig(
     filename=LOG_FILE,
@@ -45,9 +41,7 @@ logging.basicConfig(
 )
 
 
-############################################
-# 2. PROMPT DEFINITIONS
-############################################
+# PROMPT DEFINITIONS
 
 def baseline_prompt(obj):
     return f"""
@@ -149,9 +143,7 @@ For the final output, answer only with a single word: "yes" or "no".
 """
 
 
-############################################
-# 3. PROMPT BANK (user can choose subset)
-############################################
+# PROMPT BANK (user can choose subset)
 
 PROMPT_TEMPLATES = {
     "baseline": baseline_prompt,
@@ -181,9 +173,7 @@ PROMPTS_TO_RUN = [
 ]
 
 
-############################################
-# 4. GPT Vision Call
-############################################
+# GPT Vision Call
 
 API_KEY = os.getenv("OPENAI_API_KEY")   # No key in code, please set your API KEY as environment variable first 
 
@@ -273,9 +263,7 @@ def ask_gpt(image_path, object_name, prompt_fn):
     return resp.choices[0].message.content.strip()
 
 
-############################################
-# 5. Main routine for one prompt_type
-############################################
+# Main routine for one prompt_type
 
 def run_prompt_mode(prompt_key):
     prompt_fn = PROMPT_TEMPLATES[prompt_key]
@@ -327,9 +315,7 @@ def run_prompt_mode(prompt_key):
     logging.info(f"Saved file: {out_path}")
 
 
-############################################
-# 6. MAIN — run for all selected prompts
-############################################
+# MAIN — run for all selected prompts
 
 def main():
     start = time.time()

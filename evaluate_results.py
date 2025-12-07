@@ -11,9 +11,7 @@ OUTPUT_DIR = "evaluation_outputs"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-########################################################
 # Normalize GPT answer to yes/no/unknown
-########################################################
 
 def normalize_answer(ans):
     if not isinstance(ans, str):
@@ -26,9 +24,7 @@ def normalize_answer(ans):
     return "unknown"
 
 
-########################################################
 # Load all JSON results into a single DataFrame
-########################################################
 
 def load_all_results():
     rows = []
@@ -47,9 +43,7 @@ def load_all_results():
     return df
 
 
-########################################################
 # Compute hallucination metrics
-########################################################
 
 def compute_overall_metrics(df):
     df["is_fp"] = (df["flag"] == 0) & (df["gpt_raw_answer_norm"] == "yes")
@@ -88,9 +82,7 @@ def compute_folder_level(df):
     return g
 
 
-########################################################
 # Visualization Helpers
-########################################################
 
 def plot_overall_bar(df):
     plt.figure(figsize=(10, 6))
@@ -138,9 +130,7 @@ def plot_folder_heatmap(df):
     plt.close()
 
 
-########################################################
 # MAIN
-########################################################
 
 def main():
     print("Loading JSON result files...")
